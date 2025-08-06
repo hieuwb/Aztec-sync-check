@@ -12,5 +12,7 @@ chmod +x sync-check.sh
 ```
 ./sync-check.sh
 ```
-Completely synchronized state!
+
+  Completely synchronized state!
+
 <img width="471" height="665" alt="sync-aztec" src="https://github.com/user-attachments/assets/2de445b3-bf88-46c1-a52a-084ce7b869d4" />
