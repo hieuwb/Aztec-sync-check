@@ -4,4 +4,5 @@ Guide script
 cd Aztec-sync-check \
 chmod +x sync-check.sh \
 ./sync-check.sh```
-![Uploading image.png…]()
+<img width="500" height="190" alt="image" src="https://github.com/user-attachments/assets/eaebff96-757f-469d-b163-132433c7c6bb" />
+
