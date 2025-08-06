@@ -4,3 +4,4 @@ Guide script
 cd Aztec-sync-check \
 chmod +x sync-check.sh \
 ./sync-check.sh```
+![Uploading image.png…]()
